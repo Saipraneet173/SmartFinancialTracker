@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "417541248217",
+    "project_id": "smartfinancialtracker",
+    "storage_bucket": "smartfinancialtracker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417541248217:android:e2272cb43a3df31f365ac8",
+        "android_client_info": {
+          "package_name": "com.example.smartfinancialtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417541248217-g4kokq1b36btqo53tfkoui01mqmcstdc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartfinancialtracker",
+            "certificate_hash": "3ed071249de60516fe68cd1d7964711e933f8087"
+          }
+        },
+        {
+          "client_id": "417541248217-3j37ms600regkpffqvd2pv7tl9fo7903.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnx6-Iby2ioesgls_2z4B-bQAaZBNHJKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417541248217-3j37ms600regkpffqvd2pv7tl9fo7903.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
